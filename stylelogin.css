@@ -111,6 +111,8 @@ label{
     cursor: pointer;
 }
 
-p{
+a{
     color: white;
-}
+    margin-top: 8px;
+    cursor: pointer;
+    text-decoration: underline;}
